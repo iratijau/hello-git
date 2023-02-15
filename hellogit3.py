@@ -1,2 +1,4 @@
-print("Hello Git 3 v loggin!!")
+
+print("Hello Git 3 v3!!")
+>>>>>>> main
 
